@@ -1,0 +1,8 @@
+app-main {
+  & .container {
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    height: calc(100vh - 140px)
+  }
+}
